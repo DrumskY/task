@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+.inputNumber{
+  border-radius: 15px;
+  color: black;
+  font-size: large;
+  background-color: lightgrey;
+  border: 0;
+  height: 5vh;
+  width: 30vh;
+  margin: 0 auto;
+  display: flex;
+}
+.item{
+  display: inline-block;
+  height: 30vh;
+  width: 30vh;
+  margin: 10px;
+  box-sizing: border-box;
+  border-radius: 20%;
+}
+.item p{
+  font-size: larger;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+.buttons{
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+.buttonNavigation{
+  display: flex;
+  border: 0;
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+  font-size: larger;
+  font-weight: bolder;
+  padding: 20px 30px;
+  transition: background-color 100ms;
+  
+}
+.buttonNavigation:hover{
+  color: black;
+  background-color: white;
+  outline: 5px solid black;
+}
+.errorMessage{
+  font-size: 50px;
+  font-weight: bolder;
+}

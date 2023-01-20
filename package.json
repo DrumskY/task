@@ -2,7 +2,7 @@
   "name": "task",
   "version": "0.1.0",
   "config": {
-    "homepage": "https://drumsky.github.io/task/public"
+    "homepage": "https://drumsky.github.io/task/"
   },
   "private": true,
   "dependencies": {

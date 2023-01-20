@@ -1,6 +1,9 @@
 {
   "name": "task",
   "version": "0.1.0",
+  "config": {
+    "homepage": "https://drumsky.github.io/task/public"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
